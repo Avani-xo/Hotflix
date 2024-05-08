@@ -11,7 +11,7 @@ Dive into a vast library of movies, TV shows, and original content across genres
 Enjoy smooth playback in stunning HD quality on multiple devices. Our intuitive interface and personalized recommendations make it easy to discover new favorites and dive deep into the world of entertainment without interruptions.
 
 # Explore the Site
-* Visit the site at: https://yuvraj-777.great-site.net
+* Visit the site at: https://yuvraj-777.github.io/Hotflix/
 
 # Get involved:
 * GitHub: https://github.com/Yuvraj-777/Hotflix/
