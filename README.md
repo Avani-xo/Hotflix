@@ -14,7 +14,7 @@ Enjoy smooth playback in stunning HD quality on multiple devices. Our intuitive 
 * Visit the site at: https://yuvraj-777.great-site.net
 
 # Get involved:
-* GitHub: https://github.com/Yuvraj-777/
+* GitHub: https://github.com/Yuvraj-777/Hotflix/
 * Discord: https://discord.com/invite/hr8pW7J2qk/
 * Web: https://yuvraj-777.github.io/Hotflix/
 
