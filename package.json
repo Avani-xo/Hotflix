@@ -1,23 +1,23 @@
 {
-  "name": "hotstar-clone",
+  "name": "Hotflix",
   "version": "1.0.0",
-  "description": "I have created a Disney+ Hotstar Clone site using HTML, CSS and JavaScript.  All the source code, images, videos are provided. Thanks to Devtown for this.",
+  "description": "I have a Video Streaming Platform",
   "main": "index.html",
   "scripts": {
     "start": "serve",
-    "build": "echo This is a static template, there is no bundler or bundling involved!"
+    "build": "Lets Build It!!"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/Yuvraj-777/Hotflix.git"
   },
   "keywords": [],
   "author": "Ives van Hoorne",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://github.com/Yuvraj-777/Hotflix/issues"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "https://github.com/Yuvraj-777/Hotflix",
   "devDependencies": {
     "serve": "^11.2.0"
   }
